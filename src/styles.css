@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+}
+
+/*the css styling does impact the intersectionRatio etc*/
+.images {
+  width: 600px;
+  height: 50vh;
+}
